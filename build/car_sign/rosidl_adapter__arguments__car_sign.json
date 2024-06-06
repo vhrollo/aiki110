@@ -1,0 +1,7 @@
+{
+  "package_name": "car_sign",
+  "non_idl_tuples": [
+    "/home/hal/ros2/src/car_sign:srv/CarBrytertilstand.srv",
+    "/home/hal/ros2/src/car_sign:msg/MotorTilstand.msg"
+  ]
+}

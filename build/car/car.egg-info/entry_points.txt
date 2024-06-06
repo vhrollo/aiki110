@@ -1,0 +1,7 @@
+[console_scripts]
+bevegelse = car.bevegelse_node:main
+klient = car.bryter_klient:main
+lys = car.lys_node:main
+motor = car.motor_node:main
+tjeneste = car.bryter_tjeneste:main
+

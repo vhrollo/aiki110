@@ -1,0 +1,6 @@
+msg/MotorTilstand.idl
+msg/MotorTilstand.msg
+srv/CarBrytertilstand.idl
+srv/CarBrytertilstand.srv
+srv/CarBrytertilstand_Request.msg
+srv/CarBrytertilstand_Response.msg

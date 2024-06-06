@@ -1,0 +1,28 @@
+[4.048s] Invoking command in '/home/hal/ros2/src/car': PYTHONPATH=/home/hal/ros2/install/car/lib/python3.9/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/car build --build-base /home/hal/ros2/build/car/build install --prefix /home/hal/ros2/install/car --record /home/hal/ros2/build/car/install.log --single-version-externally-managed
+[5.444s] running egg_info
+[5.446s] writing ../../build/car/car.egg-info/PKG-INFO
+[5.447s] writing dependency_links to ../../build/car/car.egg-info/dependency_links.txt
+[5.448s] writing entry points to ../../build/car/car.egg-info/entry_points.txt
+[5.450s] writing requirements to ../../build/car/car.egg-info/requires.txt
+[5.451s] writing top-level names to ../../build/car/car.egg-info/top_level.txt
+[5.599s] reading manifest file '../../build/car/car.egg-info/SOURCES.txt'
+[5.602s] writing manifest file '../../build/car/car.egg-info/SOURCES.txt'
+[5.603s] running build
+[5.605s] running build_py
+[5.605s] copying car/bevegelse_node.py -> /home/hal/ros2/build/car/build/lib/car
+[5.606s] running install
+[5.613s] running install_lib
+[5.618s] copying /home/hal/ros2/build/car/build/lib/car/bevegelse_node.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[5.626s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/bevegelse_node.py to bevegelse_node.cpython-39.pyc
+[5.628s] running install_data
+[5.630s] running install_egg_info
+[5.642s] removing '/home/hal/ros2/install/car/lib/python3.9/site-packages/car-0.0.0-py3.9.egg-info' (and everything under it)
+[5.644s] Copying ../../build/car/car.egg-info to /home/hal/ros2/install/car/lib/python3.9/site-packages/car-0.0.0-py3.9.egg-info
+[5.649s] running install_scripts
+[5.759s] Installing bevegelse script to /home/hal/ros2/install/car/lib/car
+[5.762s] Installing klient script to /home/hal/ros2/install/car/lib/car
+[5.763s] Installing lys script to /home/hal/ros2/install/car/lib/car
+[5.765s] Installing motor script to /home/hal/ros2/install/car/lib/car
+[5.767s] Installing tjeneste script to /home/hal/ros2/install/car/lib/car
+[5.769s] writing list of installed files to '/home/hal/ros2/build/car/install.log'
+[5.864s] Invoked command in '/home/hal/ros2/src/car' returned '0': PYTHONPATH=/home/hal/ros2/install/car/lib/python3.9/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/car build --build-base /home/hal/ros2/build/car/build install --prefix /home/hal/ros2/install/car --record /home/hal/ros2/build/car/install.log --single-version-externally-managed

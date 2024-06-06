@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from car_sign/srv/CarBrytertilstand.srv
+// generated code does not contain a copyright notice
+
+
+module car_sign {
+  module srv {
+    struct CarBrytertilstand_Request {
+      int8 bryter_id;
+    };
+    struct CarBrytertilstand_Response {
+      int8 bryter_tilstand;
+    };
+  };
+};

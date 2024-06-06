@@ -1,0 +1,53 @@
+[5.043s] Invoking command in '/home/hal/ros2/src/car': PYTHONPATH=/home/hal/ros2/install/car/lib/python3.9/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/car build --build-base /home/hal/ros2/build/car/build install --prefix /home/hal/ros2/install/car --record /home/hal/ros2/build/car/install.log --single-version-externally-managed
+[6.454s] running egg_info
+[6.459s] creating ../../build/car/car.egg-info
+[6.461s] writing ../../build/car/car.egg-info/PKG-INFO
+[6.463s] writing dependency_links to ../../build/car/car.egg-info/dependency_links.txt
+[6.465s] writing entry points to ../../build/car/car.egg-info/entry_points.txt
+[6.466s] writing requirements to ../../build/car/car.egg-info/requires.txt
+[6.468s] writing top-level names to ../../build/car/car.egg-info/top_level.txt
+[6.469s] writing manifest file '../../build/car/car.egg-info/SOURCES.txt'
+[6.610s] reading manifest file '../../build/car/car.egg-info/SOURCES.txt'
+[6.613s] writing manifest file '../../build/car/car.egg-info/SOURCES.txt'
+[6.624s] running build
+[6.625s] running build_py
+[6.625s] creating /home/hal/ros2/build/car/build
+[6.626s] creating /home/hal/ros2/build/car/build/lib
+[6.630s] creating /home/hal/ros2/build/car/build/lib/car
+[6.630s] copying car/bryter_klient.py -> /home/hal/ros2/build/car/build/lib/car
+[6.632s] copying car/motor_node.py -> /home/hal/ros2/build/car/build/lib/car
+[6.634s] copying car/lys_node.py -> /home/hal/ros2/build/car/build/lib/car
+[6.635s] copying car/bryter_tjeneste.py -> /home/hal/ros2/build/car/build/lib/car
+[6.636s] copying car/__init__.py -> /home/hal/ros2/build/car/build/lib/car
+[6.636s] copying car/bevegelse_node.py -> /home/hal/ros2/build/car/build/lib/car
+[6.637s] running install
+[6.637s] running install_lib
+[6.640s] creating /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.640s] copying /home/hal/ros2/build/car/build/lib/car/bryter_klient.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.641s] copying /home/hal/ros2/build/car/build/lib/car/motor_node.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.641s] copying /home/hal/ros2/build/car/build/lib/car/lys_node.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.641s] copying /home/hal/ros2/build/car/build/lib/car/bryter_tjeneste.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.642s] copying /home/hal/ros2/build/car/build/lib/car/__init__.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.642s] copying /home/hal/ros2/build/car/build/lib/car/bevegelse_node.py -> /home/hal/ros2/install/car/lib/python3.9/site-packages/car
+[6.643s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/bryter_klient.py to bryter_klient.cpython-39.pyc
+[6.644s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/motor_node.py to motor_node.cpython-39.pyc
+[6.647s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/lys_node.py to lys_node.cpython-39.pyc
+[6.650s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/bryter_tjeneste.py to bryter_tjeneste.cpython-39.pyc
+[6.653s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/__init__.py to __init__.cpython-39.pyc
+[6.655s] byte-compiling /home/hal/ros2/install/car/lib/python3.9/site-packages/car/bevegelse_node.py to bevegelse_node.cpython-39.pyc
+[6.657s] running install_data
+[6.659s] creating /home/hal/ros2/install/car/share/ament_index
+[6.660s] creating /home/hal/ros2/install/car/share/ament_index/resource_index
+[6.660s] creating /home/hal/ros2/install/car/share/ament_index/resource_index/packages
+[6.661s] copying resource/car -> /home/hal/ros2/install/car/share/ament_index/resource_index/packages
+[6.661s] copying package.xml -> /home/hal/ros2/install/car/share/car
+[6.662s] running install_egg_info
+[6.672s] Copying ../../build/car/car.egg-info to /home/hal/ros2/install/car/lib/python3.9/site-packages/car-0.0.0-py3.9.egg-info
+[6.675s] running install_scripts
+[6.786s] Installing bevegelse script to /home/hal/ros2/install/car/lib/car
+[6.787s] Installing klient script to /home/hal/ros2/install/car/lib/car
+[6.788s] Installing lys script to /home/hal/ros2/install/car/lib/car
+[6.789s] Installing motor script to /home/hal/ros2/install/car/lib/car
+[6.789s] Installing tjeneste script to /home/hal/ros2/install/car/lib/car
+[6.790s] writing list of installed files to '/home/hal/ros2/build/car/install.log'
+[6.894s] Invoked command in '/home/hal/ros2/src/car' returned '0': PYTHONPATH=/home/hal/ros2/install/car/lib/python3.9/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/car build --build-base /home/hal/ros2/build/car/build install --prefix /home/hal/ros2/install/car --record /home/hal/ros2/build/car/install.log --single-version-externally-managed
